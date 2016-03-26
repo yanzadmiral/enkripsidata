@@ -1,1 +1,14 @@
 c:\users\yayan\documents\visual studio 2013\Projects\enkripsidata\enkripsidata\bin\Debug\enkripsidata.exe.config
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\bin\Debug\enkripsidata.exe
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\bin\Debug\enkripsidata.pdb
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\bin\Debug\Framework.AssetLibrary.Encryption.dll
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\enkripsidata.csprojResolveAssemblyReference.cache
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\MainWindow.baml
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\MainWindow.g.cs
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\App.g.cs
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\enkripsidata_MarkupCompile.cache
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\enkripsidata.g.resources
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\enkripsidata.Properties.Resources.resources
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\enkripsidata.csproj.GenerateResource.Cache
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\enkripsidata.exe
+C:\Users\yayan\Documents\Visual Studio 2013\Projects\enkripsidata\enkripsidata\obj\Debug\enkripsidata.pdb
